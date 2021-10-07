@@ -2,9 +2,6 @@
     grid-area: c;
     background-color: azure;
 }
-.content img{
+.content img {
     width: 100%;
-}
-.item{
-    color: greenyellow;
 }
