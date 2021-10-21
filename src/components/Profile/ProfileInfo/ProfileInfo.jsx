@@ -7,7 +7,7 @@ const ProfileInfo = () => {
                 <img alt={'background'}
                      width={'100%'}
                      height={'200px'}
-                     src={'https://images.ctfassets.net/hrltx12pl8hq/7yQR5uJhwEkRfjwMFJ7bUK/dc52a0913e8ff8b5c276177890eb0129/offset_comp_772626-opt.jpg?fit=fill&w=800&h=300'}/>
+                     src={'https://thumbs.dreamstime.com/b/pile-old-books-open-book-glasses-cup-coffee-pile-old-books-open-book-glasses-cup-coffee-reading-literature-111414224.jpg'}/>
             </div>
             <div className={s.info}>
                 ava + description

@@ -1,7 +1,7 @@
 import s from "./Message.module.css";
 
 const Message = (props) => {
-    return(
+    return (
         <div className={s.message}>
             {props.message}
         </div>
