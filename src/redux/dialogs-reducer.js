@@ -1,0 +1,4 @@
+const profileReducer = () => {
+
+    return state;
+}
